@@ -1,0 +1,8 @@
+prerelease.loketgezondleven.nl
+test.loketgezondleven.nl
+localhost.loketgezondleven.nl
+acceptatie.loketgezondleven.nl
+productie.loketgezondleven.nl
+toolkits.loketgezondleven.nl
+preview.loketgezondleven.nl
+www.loketgezondleven.nl

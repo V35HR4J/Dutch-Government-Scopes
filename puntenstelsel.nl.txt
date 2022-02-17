@@ -1,0 +1,6 @@
+a-opendata.puntenstelsel.nl
+a-feeds.puntenstelsel.nl
+a-www.puntenstelsel.nl
+feeds.puntenstelsel.nl
+www.puntenstelsel.nl
+opendata.puntenstelsel.nl

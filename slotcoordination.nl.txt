@@ -1,0 +1,9 @@
+kantoor.slotcoordination.nl
+sip.slotcoordination.nl
+enterpriseregistration.slotcoordination.nl
+enterpriseenrollment.slotcoordination.nl
+mysql.slotcoordination.nl
+ftp.slotcoordination.nl
+www.slotcoordination.nl
+autodiscover.slotcoordination.nl
+lyncdiscover.slotcoordination.nl

@@ -1,0 +1,6 @@
+wsus.nidos.nl
+localhost.nidos.nl
+digikoppeling.nidos.nl
+av.nidos.nl
+autodiscover.nidos.nl
+webmail.nidos.nl

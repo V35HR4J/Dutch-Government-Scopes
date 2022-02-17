@@ -1,0 +1,13 @@
+order.kroondomeinhetloo.nl
+www.kroondomeinhetloo.nl
+mail2.kroondomeinhetloo.nl
+mail.kroondomeinhetloo.nl
+mysql.kroondomeinhetloo.nl
+ww.kroondomeinhetloo.nl
+autodiscover.kroondomeinhetloo.nl
+enterpriseregistration.kroondomeinhetloo.nl
+enterpriseenrollment.kroondomeinhetloo.nl
+lyncdiscover.kroondomeinhetloo.nl
+pop.kroondomeinhetloo.nl
+ftp.kroondomeinhetloo.nl
+sip.kroondomeinhetloo.nl

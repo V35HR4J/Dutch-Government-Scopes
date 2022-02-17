@@ -1,0 +1,9 @@
+acc.uziregister.nl
+formulieren.uziregister.nl
+aanvragen.uziregister.nl
+a-www.uziregister.nl
+www.uziregister.nl
+a-opendata.uziregister.nl
+feeds.uziregister.nl
+a-feeds.uziregister.nl
+opendata.uziregister.nl

@@ -1,0 +1,7 @@
+test.greendeals.nl
+acc.greendeals.nl
+ftp.greendeals.nl
+www.greendeals.nl
+webmail.greendeals.nl
+mail.greendeals.nl
+demo.greendeals.nl

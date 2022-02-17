@@ -1,0 +1,10 @@
+business.gov.nl
+static.business.gov.nl
+www.business.gov.nl
+autodiscover.business.gov.nl
+ncc.gov.nl
+api.business.gov.nl
+www.ncc.gov.nl
+sip.business.gov.nl
+lyncdiscover.business.gov.nl
+search.business.gov.nl

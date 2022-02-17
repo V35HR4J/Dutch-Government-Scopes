@@ -1,0 +1,11 @@
+portal.kustwacht.nl
+www.kustwacht.nl
+ftp.kustwacht.nl
+intranet.kustwacht.nl
+utt.kustwacht.nl
+localhost.kustwacht.nl
+vpn.kustwacht.nl
+rmd.kustwacht.nl
+viia.kustwacht.nl
+leeromgeving.kustwacht.nl
+kmk.kustwacht.nl

@@ -1,0 +1,7 @@
+www.saip.nl
+mysql.saip.nl
+ftp.saip.nl
+lists.saip.nl
+autoconfig.saip.nl
+pop.saip.nl
+autodiscover.saip.nl

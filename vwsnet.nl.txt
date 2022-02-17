@@ -1,0 +1,4 @@
+test-cms.vwsnet.nl
+test.vwsnet.nl
+www.vwsnet.nl
+cms.vwsnet.nl

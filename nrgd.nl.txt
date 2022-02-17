@@ -1,0 +1,6 @@
+webservice.nrgd.nl
+english.nrgd.nl
+www.nrgd.nl
+mail.nrgd.nl
+mail.english.nrgd.nl
+nieuwsbrieven.nrgd.nl

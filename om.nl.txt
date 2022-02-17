@@ -1,0 +1,17 @@
+www.om.nl
+media.om.nl
+access.om.nl
+mdm.om.nl
+opendata.om.nl
+telewerken.om.nl
+sip.om.nl
+meet.om.nl
+conf.om.nl
+dialin.om.nl
+a-www.om.nl
+lyncdiscover.om.nl
+poc.om.nl
+a-feeds.om.nl
+a-opendata.om.nl
+webservices.om.nl
+feeds.om.nl

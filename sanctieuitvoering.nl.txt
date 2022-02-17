@@ -1,0 +1,6 @@
+feeds.sanctieuitvoering.nl
+opendata.sanctieuitvoering.nl
+a-opendata.sanctieuitvoering.nl
+a-feeds.sanctieuitvoering.nl
+a-www.sanctieuitvoering.nl
+www.sanctieuitvoering.nl

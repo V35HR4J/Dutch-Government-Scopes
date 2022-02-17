@@ -1,0 +1,5 @@
+services.digimelding.nl
+www.digimelding.nl
+preprod.services.digimelding.nl
+acc.services.digimelding.nl
+portaal.digimelding.nl

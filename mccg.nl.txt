@@ -1,0 +1,6 @@
+opendata.mccg.nl
+feeds.mccg.nl
+a-www.mccg.nl
+www.mccg.nl
+a-feeds.mccg.nl
+a-opendata.mccg.nl

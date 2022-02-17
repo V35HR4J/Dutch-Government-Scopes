@@ -1,0 +1,12 @@
+extern.formulierdus-i.nl
+test.portal.formulierdus-i.nl
+test.co.formulierdus-i.nl
+portal2.formulierdus-i.nl
+test.formulierdus-i.nl
+acc.portal.formulierdus-i.nl
+co.formulierdus-i.nl
+www.formulierdus-i.nl
+portal.formulierdus-i.nl
+acc.formulierdus-i.nl
+test.www2.formulierdus-i.nl
+www2.formulierdus-i.nl

@@ -1,0 +1,16 @@
+opendata.ubrijk.nl
+job.ubrijk.nl
+demo-acc.ubrijk.nl
+facturen.ubrijk.nl
+sharpcloud.ubrijk.nl
+loc.ubrijk.nl
+a-magazines.ubrijk.nl
+rooster.ubrijk.nl
+a-opendata.ubrijk.nl
+a-feeds.ubrijk.nl
+a-www.ubrijk.nl
+www.ubrijk.nl
+feeds.ubrijk.nl
+a-magazinesintern.ubrijk.nl
+magazinesintern.ubrijk.nl
+magazines.ubrijk.nl

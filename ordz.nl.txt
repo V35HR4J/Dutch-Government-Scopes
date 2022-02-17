@@ -1,0 +1,7 @@
+a-opendata.ordz.nl
+feeds.ordz.nl
+opendata.ordz.nl
+acceptatie.ordz.nl
+a-feeds.ordz.nl
+www.ordz.nl
+a-www.ordz.nl

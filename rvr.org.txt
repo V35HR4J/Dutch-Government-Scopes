@@ -1,0 +1,1 @@
+sso.technomic-platform.test.rvr.org

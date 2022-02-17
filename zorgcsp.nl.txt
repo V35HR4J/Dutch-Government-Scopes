@@ -1,0 +1,6 @@
+secure.zorgcsp.nl
+test.zorgcsp.nl
+acceptatie.zorgcsp.nl
+ldap.zorgcsp.nl
+ldaptest.zorgcsp.nl
+www.zorgcsp.nl

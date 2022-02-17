@@ -1,0 +1,5 @@
+www.mijnnfi.nl
+acceptatie.mijnnfi.nl
+smtp.mijnnfi.nl
+acc.mijnnfi.nl
+localhost.mijnnfi.nl

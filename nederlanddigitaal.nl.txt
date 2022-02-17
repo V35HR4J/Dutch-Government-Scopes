@@ -1,0 +1,8 @@
+a-opendata.nederlanddigitaal.nl
+feeds.nederlanddigitaal.nl
+a-feeds.nederlanddigitaal.nl
+a-www.nederlanddigitaal.nl
+t-www.nederlanddigitaal.nl
+opendata.nederlanddigitaal.nl
+o-www.nederlanddigitaal.nl
+www.nederlanddigitaal.nl

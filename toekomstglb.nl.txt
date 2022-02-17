@@ -1,0 +1,12 @@
+smtp.toekomstglb.nl
+ftp.toekomstglb.nl
+mail.toekomstglb.nl
+pop3.toekomstglb.nl
+a-www.toekomstglb.nl
+www.toekomstglb.nl
+t-www.toekomstglb.nl
+a-opendata.toekomstglb.nl
+opendata.toekomstglb.nl
+feeds.toekomstglb.nl
+a-feeds.toekomstglb.nl
+o-www.toekomstglb.nl

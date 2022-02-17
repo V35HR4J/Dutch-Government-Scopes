@@ -1,0 +1,10 @@
+www.logius.nl
+kennisbank.logius.nl
+a-magazines.logius.nl
+wiki.logius.nl
+git.logius.nl
+managedservices.logius.nl
+ca.logius.nl
+svn.logius.nl
+mailing.logius.nl
+magazines.logius.nl

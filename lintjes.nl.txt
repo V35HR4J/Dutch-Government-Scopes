@@ -1,0 +1,7 @@
+mail.lintjes.nl
+opendata.lintjes.nl
+a-feeds.lintjes.nl
+a-opendata.lintjes.nl
+www.lintjes.nl
+a-www.lintjes.nl
+feeds.lintjes.nl

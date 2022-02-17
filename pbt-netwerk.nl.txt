@@ -1,0 +1,3 @@
+mail.pbt-netwerk.nl
+ftp.pbt-netwerk.nl
+webmail.pbt-netwerk.nl

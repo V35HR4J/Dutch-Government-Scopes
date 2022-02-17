@@ -1,0 +1,5 @@
+ftp.geosamen.nl
+webmail.geosamen.nl
+mail.geosamen.nl
+staging.geosamen.nl
+www.geosamen.nl

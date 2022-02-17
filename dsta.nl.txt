@@ -1,0 +1,15 @@
+opendata.dsta.nl
+mail01.dsta.nl
+feeds.dsta.nl
+feeds.english.dsta.nl
+a-feeds.a-english.dsta.nl
+a-feeds.dsta.nl
+ftp.dsta.nl
+english.dsta.nl
+a-english.dsta.nl
+live.dsta.nl
+a-opendata.dsta.nl
+a-opendata.a-english.dsta.nl
+cms.dsta.nl
+a-www.dsta.nl
+www.dsta.nl

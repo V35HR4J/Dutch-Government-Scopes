@@ -1,0 +1,5 @@
+www.waarzitwatin.nl
+static.waarzitwatin.nl
+staging.waarzitwatin.nl
+static.staging.waarzitwatin.nl
+staging.www.waarzitwatin.nl

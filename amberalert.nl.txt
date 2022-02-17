@@ -1,0 +1,7 @@
+rss.amberalert.nl
+alert.amberalert.nl
+mail.amberalert.nl
+media.amberalert.nl
+www.amberalert.nl
+autodiscover.amberalert.nl
+missing.amberalert.nl

@@ -1,0 +1,12 @@
+pre-live.antennebureau.nl
+a-www.antennebureau.nl
+o-www.antennebureau.nl
+test.antennebureau.nl
+sip.antennebureau.nl
+lyncdiscover.antennebureau.nl
+www.antennebureau.nl
+a-feeds.antennebureau.nl
+a-opendata.antennebureau.nl
+t-www.antennebureau.nl
+feeds.antennebureau.nl
+opendata.antennebureau.nl

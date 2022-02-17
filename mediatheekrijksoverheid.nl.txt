@@ -1,0 +1,8 @@
+t-www.mediatheekrijksoverheid.nl
+www.mediatheekrijksoverheid.nl
+proxy1.mediatheekrijksoverheid.nl
+site1.mediatheekrijksoverheid.nl
+proxy2.mediatheekrijksoverheid.nl
+a-www.mediatheekrijksoverheid.nl
+site2.mediatheekrijksoverheid.nl
+sftp.mediatheekrijksoverheid.nl

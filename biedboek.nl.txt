@@ -1,0 +1,7 @@
+localhost.biedboek.nl
+autodiscover.biedboek.nl
+lyncdiscover.biedboek.nl
+enterpriseenrollment.biedboek.nl
+enterpriseregistration.biedboek.nl
+msoid.biedboek.nl
+sip.biedboek.nl

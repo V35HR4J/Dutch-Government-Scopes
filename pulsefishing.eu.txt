@@ -1,0 +1,8 @@
+opendata.pulsefishing.eu
+www.pulsefishing.eu
+a-www.pulsefishing.eu
+a-opendata.pulsefishing.eu
+a-feeds.pulsefishing.eu
+o-www.pulsefishing.eu
+t-www.pulsefishing.eu
+feeds.pulsefishing.eu

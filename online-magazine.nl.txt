@@ -1,0 +1,3 @@
+editor.online-magazine.nl
+www.online-magazine.nl
+staging.editor.online-magazine.nl

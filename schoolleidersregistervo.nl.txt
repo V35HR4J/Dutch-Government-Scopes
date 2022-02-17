@@ -1,0 +1,14 @@
+admin.schoolleidersregistervo.nl
+autodiscover.schoolleidersregistervo.nl
+mijn.schoolleidersregistervo.nl
+rapport.schoolleidersregistervo.nl
+a-feeds.schoolleidersregistervo.nl
+msoid.schoolleidersregistervo.nl
+acceptatie.mijn.schoolleidersregistervo.nl
+eprov.schoolleidersregistervo.nl
+acceptatie.admin.schoolleidersregistervo.nl
+a-www.schoolleidersregistervo.nl
+a-opendata.schoolleidersregistervo.nl
+www.schoolleidersregistervo.nl
+feeds.schoolleidersregistervo.nl
+opendata.schoolleidersregistervo.nl

@@ -1,0 +1,17 @@
+cpcontacts.globio.info
+webmail.globio.info
+viewer.globio.info
+cpanel.drip.globio.info
+webmail.drip.globio.info
+webdisk.globio.info
+ftp.globio.info
+cpcalendars.globio.info
+autoconfig.globio.info
+mail.globio.info
+drip.globio.info
+whm.globio.info
+cpanel.globio.info
+www.globio.info
+autodiscover.globio.info
+www.drip.globio.info
+www.viewer.globio.info

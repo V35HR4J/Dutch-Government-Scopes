@@ -1,0 +1,13 @@
+enterpriseenrollment.klimaatakkoord.nl
+t-www.klimaatakkoord.nl
+www.klimaatakkoord.nl
+a-feeds.klimaatakkoord.nl
+o-www.klimaatakkoord.nl
+a-www.klimaatakkoord.nl
+autodiscover.klimaatakkoord.nl
+enterpriseregistration.klimaatakkoord.nl
+sip.klimaatakkoord.nl
+opendata.klimaatakkoord.nl
+a-opendata.klimaatakkoord.nl
+lyncdiscover.klimaatakkoord.nl
+feeds.klimaatakkoord.nl

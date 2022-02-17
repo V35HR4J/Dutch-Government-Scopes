@@ -1,0 +1,6 @@
+prototype.opendisdata.nl
+www.opendisdata.nl
+ftp.opendisdata.nl
+acceptatie.opendisdata.nl
+ssh.opendisdata.nl
+pop.opendisdata.nl

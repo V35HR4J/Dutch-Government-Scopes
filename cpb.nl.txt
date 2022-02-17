@@ -1,0 +1,11 @@
+ad-ldap.cpb.nl
+fed.cpb.nl
+sf.cpb.nl
+dwo.cpb.nl
+www.cpb.nl
+fs.cpb.nl
+pr.cpb.nl
+mail.cpb.nl
+confluence.cpb.nl
+ns1.cpb.nl
+ns2.cpb.nl

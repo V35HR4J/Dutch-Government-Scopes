@@ -1,0 +1,8 @@
+a-feeds.rijksrecherche.nl
+redactie.rijksrecherche.nl
+asterix.rijksrecherche.nl
+a-opendata.rijksrecherche.nl
+demo.rijksrecherche.nl
+a-www.rijksrecherche.nl
+opendata.rijksrecherche.nl
+feeds.rijksrecherche.nl

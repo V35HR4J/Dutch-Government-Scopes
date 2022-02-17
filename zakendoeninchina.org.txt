@@ -1,0 +1,5 @@
+ftp.zakendoeninchina.org
+mail.zakendoeninchina.org
+smtp.zakendoeninchina.org
+pop.zakendoeninchina.org
+www.zakendoeninchina.org

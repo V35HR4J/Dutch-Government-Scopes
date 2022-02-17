@@ -1,0 +1,6 @@
+feeds.koopoverheid.nl
+a-www.koopoverheid.nl
+opendata.koopoverheid.nl
+a-feeds.koopoverheid.nl
+a-opendata.koopoverheid.nl
+www.koopoverheid.nl

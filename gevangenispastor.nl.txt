@@ -1,0 +1,6 @@
+mail.gevangenispastor.nl
+admin.gevangenispastor.nl
+pop.gevangenispastor.nl
+ftp.gevangenispastor.nl
+formulier.gevangenispastor.nl
+www.gevangenispastor.nl

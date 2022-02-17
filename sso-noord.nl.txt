@@ -1,0 +1,7 @@
+meet.sso-noord.nl
+lyncdiscover.sso-noord.nl
+cloud.sso-noord.nl
+sip.sso-noord.nl
+acc.sso-noord.nl
+www.sso-noord.nl
+vpn.cloud.sso-noord.nl

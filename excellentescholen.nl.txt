@@ -1,0 +1,6 @@
+opendata.excellentescholen.nl
+a-opendata.excellentescholen.nl
+www.excellentescholen.nl
+a-www.excellentescholen.nl
+a-feeds.excellentescholen.nl
+feeds.excellentescholen.nl

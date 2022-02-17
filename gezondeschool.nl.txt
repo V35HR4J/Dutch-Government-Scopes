@@ -1,0 +1,12 @@
+preview.gezondeschool.nl
+sub.gezondeschool.nl
+autodiscover.gezondeschool.nl
+test.gezondeschool.nl
+acceptatie.gezondeschool.nl
+localhost.gezondeschool.nl
+enterpriseregistration.gezondeschool.nl
+www.gezondeschool.nl
+lyncdiscover.gezondeschool.nl
+enterpriseenrollment.gezondeschool.nl
+msoid.gezondeschool.nl
+sip.gezondeschool.nl

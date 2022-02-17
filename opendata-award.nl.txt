@@ -1,0 +1,5 @@
+feeds.opendata-award.nl
+opendata.opendata-award.nl
+www.opendata-award.nl
+a-www.opendata-award.nl
+a-feeds.opendata-award.nl

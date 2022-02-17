@@ -1,0 +1,6 @@
+a-opendata.politiekeambtsdragers.nl
+a-www.politiekeambtsdragers.nl
+opendata.politiekeambtsdragers.nl
+www.politiekeambtsdragers.nl
+a-feeds.politiekeambtsdragers.nl
+feeds.politiekeambtsdragers.nl

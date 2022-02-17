@@ -1,0 +1,6 @@
+localhost.nmdc.eu
+ftp.nmdc.eu
+mail.nmdc.eu
+www.nmdc.eu
+autodiscover.nmdc.eu
+autoconfig.nmdc.eu

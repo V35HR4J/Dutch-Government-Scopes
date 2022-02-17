@@ -1,0 +1,11 @@
+ob.riec.nl
+mail.riec.nl
+a-feeds.riec.nl
+www.riec.nl
+magazines.riec.nl
+opendata.riec.nl
+test.riec.nl
+a-www.riec.nl
+feeds.riec.nl
+a-magazines.riec.nl
+autoconfig.riec.nl

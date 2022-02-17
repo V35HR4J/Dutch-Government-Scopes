@@ -1,0 +1,5 @@
+webmail.kasteelgroeneveld.nl
+pop.kasteelgroeneveld.nl
+www.kasteelgroeneveld.nl
+ftp.kasteelgroeneveld.nl
+mail.kasteelgroeneveld.nl

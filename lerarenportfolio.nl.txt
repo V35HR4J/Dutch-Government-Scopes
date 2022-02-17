@@ -1,0 +1,11 @@
+aanbieders.lerarenportfolio.nl
+acceptatie.beheer.lerarenportfolio.nl
+acceptatie.mijn.lerarenportfolio.nl
+mijn.lerarenportfolio.nl
+beheer.lerarenportfolio.nl
+opendata.lerarenportfolio.nl
+a-www.lerarenportfolio.nl
+feeds.lerarenportfolio.nl
+a-feeds.lerarenportfolio.nl
+a-opendata.lerarenportfolio.nl
+www.lerarenportfolio.nl

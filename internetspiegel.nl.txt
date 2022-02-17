@@ -1,0 +1,5 @@
+localhost.internetspiegel.nl
+ftp.internetspiegel.nl
+www.internetspiegel.nl
+accept.internetspiegel.nl
+test.internetspiegel.nl

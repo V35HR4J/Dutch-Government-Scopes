@@ -1,0 +1,9 @@
+ftp.atgb.nl
+autodiscover.atgb.nl
+www.atgb.nl
+enterpriseenrollment.atgb.nl
+enterpriseregistration.atgb.nl
+lyncdiscover.atgb.nl
+sip.atgb.nl
+msoid.atgb.nl
+mysql.atgb.nl

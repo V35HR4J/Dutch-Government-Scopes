@@ -1,0 +1,8 @@
+a-opendata.nifp.nl
+academie.nifp.nl
+a-www.nifp.nl
+www.nifp.nl
+extranet.nifp.nl
+mail.nifp.nl
+feeds.nifp.nl
+opendata.nifp.nl

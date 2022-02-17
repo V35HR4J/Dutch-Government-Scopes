@@ -1,0 +1,11 @@
+opendata.english.farmatec.nl
+hulpmiddelen.farmatec.nl
+a-feeds.farmatec.nl
+english.farmatec.nl
+a-feeds.a-english.farmatec.nl
+feeds.english.farmatec.nl
+a-www.farmatec.nl
+a-opendata.a-english.farmatec.nl
+a-opendata.farmatec.nl
+www.farmatec.nl
+a-english.farmatec.nl

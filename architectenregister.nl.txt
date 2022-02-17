@@ -1,0 +1,12 @@
+autodiscover.architectenregister.nl
+adfs.architectenregister.nl
+remote.architectenregister.nl
+old.architectenregister.nl
+msoid.architectenregister.nl
+enterpriseregistration.architectenregister.nl
+server02.architectenregister.nl
+www.architectenregister.nl
+sip.architectenregister.nl
+enterpriseenrollment.architectenregister.nl
+lyncdiscover.architectenregister.nl
+webmail.architectenregister.nl

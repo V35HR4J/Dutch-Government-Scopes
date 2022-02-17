@@ -1,0 +1,2 @@
+autodiscover.tcbodem.nl
+localhost.tcbodem.nl

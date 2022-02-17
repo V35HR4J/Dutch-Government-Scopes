@@ -1,0 +1,6 @@
+pop.stopheling.nl
+mail.stopheling.nl
+old.stopheling.nl
+dor.stopheling.nl
+test-api.stopheling.nl
+www.stopheling.nl

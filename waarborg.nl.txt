@@ -1,0 +1,10 @@
+mijn.acceptatie.waarborg.nl
+intranet.waarborg.nl
+autodiscover.waarborg.nl
+web01.waarborg.nl
+mijn.waarborg.nl
+api.acceptatie.waarborg.nl
+beheer.waarborg.nl
+api.waarborg.nl
+trw.waarborg.nl
+www.waarborg.nl

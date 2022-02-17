@@ -1,0 +1,8 @@
+opendata.platformjep.nl
+magazines.platformjep.nl
+feeds.platformjep.nl
+a-www.platformjep.nl
+a-feeds.platformjep.nl
+a-opendata.platformjep.nl
+www.platformjep.nl
+a-magazines.platformjep.nl

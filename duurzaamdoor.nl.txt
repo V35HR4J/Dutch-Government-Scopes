@@ -1,0 +1,5 @@
+lyncdiscover.duurzaamdoor.nl
+www.duurzaamdoor.nl
+sip.duurzaamdoor.nl
+test.duurzaamdoor.nl
+prod.duurzaamdoor.nl

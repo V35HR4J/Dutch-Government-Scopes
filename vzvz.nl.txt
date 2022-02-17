@@ -1,0 +1,9 @@
+test.vzvz.nl
+dev.vzvz.nl
+enterpriseenrollment.vzvz.nl
+pim.vzvz.nl
+mx1.vzvz.nl
+mail.vzvz.nl
+vpn.vzvz.nl
+supportal.vzvz.nl
+acceptatie.vzvz.nl

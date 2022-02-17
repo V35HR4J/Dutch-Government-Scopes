@@ -1,0 +1,7 @@
+www.owinsp.nl
+isd.owinsp.nl
+sip.owinsp.nl
+meet.owinsp.nl
+autodiscover.owinsp.nl
+lyncdiscover.owinsp.nl
+meet.uc4all.owinsp.nl

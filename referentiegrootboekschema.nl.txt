@@ -1,0 +1,4 @@
+ftp.referentiegrootboekschema.nl
+mail.referentiegrootboekschema.nl
+www.referentiegrootboekschema.nl
+acceptatie.referentiegrootboekschema.nl

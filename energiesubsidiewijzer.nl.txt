@@ -1,0 +1,7 @@
+sql.energiesubsidiewijzer.nl
+mysql.energiesubsidiewijzer.nl
+www.energiesubsidiewijzer.nl
+pop.energiesubsidiewijzer.nl
+autodiscover.energiesubsidiewijzer.nl
+autoconfig.energiesubsidiewijzer.nl
+ftp.energiesubsidiewijzer.nl

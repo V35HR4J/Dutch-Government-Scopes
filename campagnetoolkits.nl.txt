@@ -1,0 +1,8 @@
+opendata.campagnetoolkits.nl
+feeds.campagnetoolkits.nl
+a-opendata.campagnetoolkits.nl
+a-feeds.campagnetoolkits.nl
+t-www.campagnetoolkits.nl
+a-www.campagnetoolkits.nl
+o-www.campagnetoolkits.nl
+www.campagnetoolkits.nl

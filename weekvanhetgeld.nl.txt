@@ -1,0 +1,4 @@
+mail.weekvanhetgeld.nl
+webmail.weekvanhetgeld.nl
+www.weekvanhetgeld.nl
+nieuwsbrief.weekvanhetgeld.nl

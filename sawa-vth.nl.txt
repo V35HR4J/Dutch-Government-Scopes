@@ -1,0 +1,9 @@
+webdav-test.sawa-vth.nl
+test.sawa-vth.nl
+webdav.sawa-vth.nl
+map-test.sawa-vth.nl
+office-test.sawa-vth.nl
+map.sawa-vth.nl
+www.sawa-vth.nl
+office.sawa-vth.nl
+acceptatie.sawa-vth.nl

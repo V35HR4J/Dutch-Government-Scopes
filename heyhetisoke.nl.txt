@@ -1,0 +1,6 @@
+a-opendata.heyhetisoke.nl
+a-www.heyhetisoke.nl
+feeds.heyhetisoke.nl
+opendata.heyhetisoke.nl
+a-feeds.heyhetisoke.nl
+www.heyhetisoke.nl

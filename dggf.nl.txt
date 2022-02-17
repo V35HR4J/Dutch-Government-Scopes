@@ -1,0 +1,13 @@
+espanol.dggf.nl
+opendata.english.dggf.nl
+www.dggf.nl
+a-www.dggf.nl
+opendata.dggf.nl
+feeds.english.dggf.nl
+english.dggf.nl
+a-english.dggf.nl
+francais.dggf.nl
+a-opendata.dggf.nl
+a-opendata.a-english.dggf.nl
+feeds.dggf.nl
+a-feeds.dggf.nl

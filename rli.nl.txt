@@ -1,0 +1,5 @@
+sdm.rli.nl
+sip.rli.nl
+www.rli.nl
+en.rli.nl
+ftp.rli.nl

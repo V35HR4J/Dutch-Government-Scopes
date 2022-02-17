@@ -1,0 +1,17 @@
+mail2.parlement.nl
+mail1.parlement.nl
+mail.parlement.nl
+webmail.parlement.nl
+activesync.parlement.nl
+git.parlement.nl
+sts.parlement.nl
+localhost.parlement.nl
+testrecord.parlement.nl
+ns.parlement.nl
+pki.parlement.nl
+activesync2.parlement.nl
+mijn.parlement.nl
+ns1.parlement.nl
+ns2.parlement.nl
+tweedekamer.parlement.nl
+sts.test.parlement.nl

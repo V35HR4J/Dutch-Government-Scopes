@@ -1,0 +1,6 @@
+sdm.forumstandaardisatie.nl
+www.forumstandaardisatie.nl
+sip.forumstandaardisatie.nl
+magazine.forumstandaardisatie.nl
+api.forumstandaardisatie.nl
+data.forumstandaardisatie.nl

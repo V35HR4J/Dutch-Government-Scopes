@@ -1,0 +1,6 @@
+a-opendata.medicineshortagesdefects.nl
+www.medicineshortagesdefects.nl
+opendata.medicineshortagesdefects.nl
+feeds.medicineshortagesdefects.nl
+a-www.medicineshortagesdefects.nl
+a-feeds.medicineshortagesdefects.nl

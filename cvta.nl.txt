@@ -1,0 +1,4 @@
+localhost.cvta.nl
+www.cvta.nl
+remote.cvta.nl
+autodiscover.cvta.nl

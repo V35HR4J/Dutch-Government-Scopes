@@ -1,0 +1,14 @@
+remote.poraad.nl
+nieuwsbrief.poraad.nl
+autodiscover.poraad.nl
+email.mg.poraad.nl
+extranet.poraad.nl
+redmine.poraad.nl
+www.poraad.nl
+jaarverslagen.poraad.nl
+webmail.poraad.nl
+piwik.poraad.nl
+wiki.poraad.nl
+oud.poraad.nl
+acc.extranet.poraad.nl
+enterpriseregistration.poraad.nl

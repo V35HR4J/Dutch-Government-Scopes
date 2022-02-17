@@ -1,0 +1,5 @@
+mail.gorrijk.nl
+www.gorrijk.nl
+autoconfig.gorrijk.nl
+ftp.gorrijk.nl
+autodiscover.gorrijk.nl

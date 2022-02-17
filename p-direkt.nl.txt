@@ -1,0 +1,16 @@
+aladdin.p-direkt.nl
+kms.p-direkt.nl
+feeds.p-direkt.nl
+a-opendata.p-direkt.nl
+kms-test.p-direkt.nl
+a-www.p-direkt.nl
+a-feeds.p-direkt.nl
+grc.p-direkt.nl
+opendata.p-direkt.nl
+a-magazines.p-direkt.nl
+acc.api.p-direkt.nl
+api.p-direkt.nl
+dev.api.p-direkt.nl
+www.p-direkt.nl
+magazines.p-direkt.nl
+appstore.p-direkt.nl

@@ -1,0 +1,3 @@
+mail.toezichtopboa.nl
+webmail.toezichtopboa.nl
+autodiscover.toezichtopboa.nl

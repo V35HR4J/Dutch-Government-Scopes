@@ -1,0 +1,3 @@
+tickets.paleisamsterdam.nl
+web01.paleisamsterdam.nl
+www.paleisamsterdam.nl

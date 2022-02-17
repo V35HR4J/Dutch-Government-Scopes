@@ -1,0 +1,16 @@
+cdn.dji.nl
+ftp.dji.nl
+mail.dji.nl
+balans.dji.nl
+test.dji.nl
+eagle.dji.nl
+www.balans.dji.nl
+www.dji.nl
+a-feeds.dji.nl
+feeds.dji.nl
+opendata.dji.nl
+a-opendata.dji.nl
+a-www.dji.nl
+magazines.dji.nl
+a-magazines.dji.nl
+intranet.dji.nl

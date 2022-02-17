@@ -1,0 +1,6 @@
+feeds.beheerdetoekomst.nl
+opendata.beheerdetoekomst.nl
+a-opendata.beheerdetoekomst.nl
+a-www.beheerdetoekomst.nl
+www.beheerdetoekomst.nl
+a-feeds.beheerdetoekomst.nl

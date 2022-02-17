@@ -1,0 +1,6 @@
+a-feeds.studeermeteenplan.nl
+a-opendata.studeermeteenplan.nl
+feeds.studeermeteenplan.nl
+opendata.studeermeteenplan.nl
+a-www.studeermeteenplan.nl
+www.studeermeteenplan.nl

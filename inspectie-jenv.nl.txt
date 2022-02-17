@@ -1,0 +1,7 @@
+opendata.inspectie-jenv.nl
+a-opendata.inspectie-jenv.nl
+a-feeds.inspectie-jenv.nl
+www.inspectie-jenv.nl
+feeds.inspectie-jenv.nl
+a-www.inspectie-jenv.nl
+autodiscover.inspectie-jenv.nl

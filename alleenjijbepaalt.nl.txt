@@ -1,0 +1,6 @@
+bestanden.alleenjijbepaalt.nl
+www.alleenjijbepaalt.nl
+msoid.alleenjijbepaalt.nl
+autodiscover.alleenjijbepaalt.nl
+enterpriseenrollment.alleenjijbepaalt.nl
+enterpriseregistration.alleenjijbepaalt.nl

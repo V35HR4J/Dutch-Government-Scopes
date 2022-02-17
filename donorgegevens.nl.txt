@@ -1,0 +1,9 @@
+acc.donorgegevens.nl
+aanvraag.donorgegevens.nl
+feeds.donorgegevens.nl
+a-opendata.donorgegevens.nl
+aanvragen.donorgegevens.nl
+opendata.donorgegevens.nl
+a-feeds.donorgegevens.nl
+a-www.donorgegevens.nl
+www.donorgegevens.nl

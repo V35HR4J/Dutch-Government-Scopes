@@ -1,0 +1,8 @@
+a-feeds.eenzaam.nl
+a-opendata.eenzaam.nl
+pop.eenzaam.nl
+ssh.eenzaam.nl
+feeds.eenzaam.nl
+opendata.eenzaam.nl
+www.eenzaam.nl
+a-www.eenzaam.nl

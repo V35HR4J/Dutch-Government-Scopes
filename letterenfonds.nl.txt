@@ -1,0 +1,17 @@
+skywalker.letterenfonds.nl
+pers.letterenfonds.nl
+remote.letterenfonds.nl
+backup.letterenfonds.nl
+esx.letterenfonds.nl
+www.letterenfonds.nl
+form.letterenfonds.nl
+autodiscover.letterenfonds.nl
+docs.letterenfonds.nl
+print.letterenfonds.nl
+intra.letterenfonds.nl
+obiwan.letterenfonds.nl
+email.letterenfonds.nl
+enterpriseenrollment.letterenfonds.nl
+enterpriseregistration.letterenfonds.nl
+lyncdiscover.letterenfonds.nl
+sip.letterenfonds.nl

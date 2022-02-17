@@ -1,0 +1,13 @@
+a-opendata.aivd.nl
+a-feeds.aivd.nl
+a-www.aivd.nl
+english.aivd.nl
+a-feeds.a-english.aivd.nl
+feeds.aivd.nl
+opendata.aivd.nl
+a-opendata.a-english.aivd.nl
+feeds.english.aivd.nl
+t-www.aivd.nl
+www.aivd.nl
+opendata.english.aivd.nl
+a-english.aivd.nl

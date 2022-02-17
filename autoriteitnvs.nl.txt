@@ -1,0 +1,17 @@
+magazines.autoriteitnvs.nl
+cms.intranet.autoriteitnvs.nl
+intranet.autoriteitnvs.nl
+www.autoriteitnvs.nl
+english.autoriteitnvs.nl
+a-magazines.autoriteitnvs.nl
+staging.intranet.autoriteitnvs.nl
+a-feeds.autoriteitnvs.nl
+a-www.autoriteitnvs.nl
+a-opendata.autoriteitnvs.nl
+a-opendata.a-english.autoriteitnvs.nl
+feeds.autoriteitnvs.nl
+a-feeds.a-english.autoriteitnvs.nl
+opendata.autoriteitnvs.nl
+a-english.autoriteitnvs.nl
+opendata.english.autoriteitnvs.nl
+feeds.english.autoriteitnvs.nl

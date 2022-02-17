@@ -1,0 +1,4 @@
+demo.monitorgezondheid.nl
+localhost.monitorgezondheid.nl
+staging.monitorgezondheid.nl
+www.monitorgezondheid.nl

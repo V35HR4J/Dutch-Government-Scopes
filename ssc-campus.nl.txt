@@ -1,0 +1,14 @@
+acceptatie.ssc-campus.nl
+esp.ssc-campus.nl
+fs.ssc-campus.nl
+login.ssc-campus.nl
+localhost.ssc-campus.nl
+mail-relay.ssc-campus.nl
+mp.ssc-campus.nl
+ns1.ssc-campus.nl
+ns2.ssc-campus.nl
+radius.ssc-campus.nl
+sharefile.ssc-campus.nl
+supportcenter.ssc-campus.nl
+www.ssc-campus.nl
+www2.ssc-campus.nl

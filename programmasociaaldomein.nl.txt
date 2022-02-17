@@ -1,0 +1,8 @@
+a-www.programmasociaaldomein.nl
+a-opendata.programmasociaaldomein.nl
+mail.programmasociaaldomein.nl
+www.programmasociaaldomein.nl
+feeds.programmasociaaldomein.nl
+a-feeds.programmasociaaldomein.nl
+autodiscover.programmasociaaldomein.nl
+opendata.programmasociaaldomein.nl

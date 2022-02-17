@@ -1,0 +1,5 @@
+localhost.toekomstreligieuserfgoed.nl
+prod.toekomstreligieuserfgoed.nl
+test.toekomstreligieuserfgoed.nl
+mail.toekomstreligieuserfgoed.nl
+webmail.toekomstreligieuserfgoed.nl

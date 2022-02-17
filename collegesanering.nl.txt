@@ -1,0 +1,12 @@
+mail.collegesanering.nl
+feeds.collegesanering.nl
+a-www.collegesanering.nl
+opendata.collegesanering.nl
+post.collegesanering.nl
+nieuw.collegesanering.nl
+ftp.collegesanering.nl
+webmail.collegesanering.nl
+a-feeds.collegesanering.nl
+www.collegesanering.nl
+a-opendata.collegesanering.nl
+autodiscover.collegesanering.nl

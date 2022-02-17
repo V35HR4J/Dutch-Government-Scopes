@@ -1,0 +1,10 @@
+staging.telmeemettaal.nl
+mail.telmeemettaal.nl
+ftp.telmeemettaal.nl
+a-www.telmeemettaal.nl
+a-opendata.telmeemettaal.nl
+stagingtwo.telmeemettaal.nl
+opendata.telmeemettaal.nl
+www.telmeemettaal.nl
+feeds.telmeemettaal.nl
+a-feeds.telmeemettaal.nl

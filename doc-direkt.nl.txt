@@ -1,0 +1,7 @@
+a-opendata.doc-direkt.nl
+a-www.doc-direkt.nl
+opendata.doc-direkt.nl
+dh.doc-direkt.nl
+www.doc-direkt.nl
+a-feeds.doc-direkt.nl
+feeds.doc-direkt.nl

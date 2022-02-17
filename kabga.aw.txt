@@ -1,0 +1,8 @@
+www.kabga.aw
+lyncdiscover.kabga.aw
+webmail.kabga.aw
+mail.kabga.aw
+smtp.kabga.aw
+imap.kabga.aw
+sip.kabga.aw
+pop3.kabga.aw

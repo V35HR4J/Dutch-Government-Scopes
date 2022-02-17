@@ -1,0 +1,13 @@
+mijn.diergeneeskunderegister.nl
+webservices.diergeneeskunderegister.nl
+acceptatie.webservices.diergeneeskunderegister.nl
+acceptatie.mijn.diergeneeskunderegister.nl
+opendata.diergeneeskunderegister.nl
+zoeken.diergeneeskunderegister.nl
+beheer.diergeneeskunderegister.nl
+acceptatie.beheer.diergeneeskunderegister.nl
+a-feeds.diergeneeskunderegister.nl
+a-www.diergeneeskunderegister.nl
+feeds.diergeneeskunderegister.nl
+www.diergeneeskunderegister.nl
+a-opendata.diergeneeskunderegister.nl

@@ -1,0 +1,10 @@
+t-www.paysbasmondial.nl
+a-feeds.paysbasmondial.nl
+a-www.paysbasmondial.nl
+track.paysbasmondial.nl
+opendata.paysbasmondial.nl
+o-www.paysbasmondial.nl
+i-www.paysbasmondial.nl
+a-opendata.paysbasmondial.nl
+feeds.paysbasmondial.nl
+www.paysbasmondial.nl

@@ -1,0 +1,8 @@
+lyncdiscover.raadvoorplantenrassen.nl
+ftp.raadvoorplantenrassen.nl
+autodiscover.raadvoorplantenrassen.nl
+enterpriseenrollment.raadvoorplantenrassen.nl
+enterpriseregistration.raadvoorplantenrassen.nl
+sip.raadvoorplantenrassen.nl
+pop.raadvoorplantenrassen.nl
+ssh.raadvoorplantenrassen.nl

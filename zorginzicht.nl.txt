@@ -1,0 +1,16 @@
+loket.zorginzicht.nl
+acc.zorginzicht.nl
+acceptatie.zorginzicht.nl
+odb.zorginzicht.nl
+www-ac.zorginzicht.nl
+portal.zorginzicht.nl
+prod2.zorginzicht.nl
+tp.zorginzicht.nl
+sp.zorginzicht.nl
+pr.zorginzicht.nl
+www.zorginzicht.nl
+www-ts.zorginzicht.nl
+www-ow.zorginzicht.nl
+acc2.zorginzicht.nl
+mysites.zorginzicht.nl
+tpk.zorginzicht.nl

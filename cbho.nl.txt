@@ -1,0 +1,9 @@
+webmail.cbho.nl
+pop3.cbho.nl
+www.cbho.nl
+opendata.cbho.nl
+feeds.cbho.nl
+a-www.cbho.nl
+a-feeds.cbho.nl
+a-opendata.cbho.nl
+autodiscover.cbho.nl

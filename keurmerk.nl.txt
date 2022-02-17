@@ -1,0 +1,4 @@
+ftp.keurmerk.nl
+www.keurmerk.nl
+test.keurmerk.nl
+autodiscover.keurmerk.nl

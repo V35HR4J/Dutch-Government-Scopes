@@ -1,0 +1,8 @@
+www.cvte.nl
+opendata.cvte.nl
+feeds.cvte.nl
+mx2.cvte.nl
+a-feeds.cvte.nl
+a-www.cvte.nl
+a-opendata.cvte.nl
+denkmee.cvte.nl

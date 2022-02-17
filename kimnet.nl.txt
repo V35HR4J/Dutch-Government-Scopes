@@ -1,0 +1,14 @@
+www.kimnet.nl
+opendata.english.kimnet.nl
+p.kimnet.nl
+a-www.kimnet.nl
+english.kimnet.nl
+a-opendata.kimnet.nl
+a.kimnet.nl
+a-feeds.kimnet.nl
+feeds.english.kimnet.nl
+a-english.kimnet.nl
+feeds.kimnet.nl
+a-opendata.a-english.kimnet.nl
+opendata.kimnet.nl
+a-feeds.a-english.kimnet.nl

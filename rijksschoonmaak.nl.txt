@@ -1,0 +1,6 @@
+feeds.rijksschoonmaak.nl
+a-feeds.rijksschoonmaak.nl
+a-opendata.rijksschoonmaak.nl
+www.rijksschoonmaak.nl
+a-www.rijksschoonmaak.nl
+opendata.rijksschoonmaak.nl

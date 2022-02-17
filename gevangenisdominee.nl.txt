@@ -1,0 +1,4 @@
+mail.gevangenisdominee.nl
+pop.gevangenisdominee.nl
+ftp.gevangenisdominee.nl
+www.gevangenisdominee.nl

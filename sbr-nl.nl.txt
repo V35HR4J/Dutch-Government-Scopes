@@ -1,0 +1,5 @@
+test.sbr-nl.nl
+mail.sbr-nl.nl
+acceptatie.sbr-nl.nl
+www.sbr-nl.nl
+sametime.sbr-nl.nl

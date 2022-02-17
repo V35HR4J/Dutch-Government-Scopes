@@ -1,0 +1,7 @@
+a-opendata.ikz.nl
+a-www.ikz.nl
+a-feeds.ikz.nl
+dashboards.ikz.nl
+opendata.ikz.nl
+www.ikz.nl
+feeds.ikz.nl

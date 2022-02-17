@@ -1,0 +1,5 @@
+pop.duo-onderwijsonderzoek.nl
+e.duo-onderwijsonderzoek.nl
+ftp.duo-onderwijsonderzoek.nl
+autodiscover.duo-onderwijsonderzoek.nl
+mail.duo-onderwijsonderzoek.nl

@@ -1,0 +1,8 @@
+o-www.maison-royale.nl
+a-feeds.maison-royale.nl
+feeds.maison-royale.nl
+opendata.maison-royale.nl
+t-www.maison-royale.nl
+www.maison-royale.nl
+a-www.maison-royale.nl
+a-opendata.maison-royale.nl

@@ -1,0 +1,5 @@
+www.innova58.nl
+sip.innova58.nl
+msoid.innova58.nl
+autodiscover.innova58.nl
+lyncdiscover.innova58.nl

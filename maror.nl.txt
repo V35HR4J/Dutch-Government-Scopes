@@ -1,0 +1,9 @@
+imap.maror.nl
+mail.maror.nl
+smtp.maror.nl
+pop3.maror.nl
+localhost.maror.nl
+www.maror.nl
+aanvragen.maror.nl
+www.aanvragen.maror.nl
+pop.maror.nl

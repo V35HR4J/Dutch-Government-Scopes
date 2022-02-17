@@ -1,0 +1,3 @@
+pop.techniekpact.nl
+autodiscover.techniekpact.nl
+mail.techniekpact.nl

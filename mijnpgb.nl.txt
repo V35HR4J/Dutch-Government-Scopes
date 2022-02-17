@@ -1,0 +1,6 @@
+eprov.mijnpgb.nl
+opendata.mijnpgb.nl
+a-www.mijnpgb.nl
+feeds.mijnpgb.nl
+a-feeds.mijnpgb.nl
+www.mijnpgb.nl

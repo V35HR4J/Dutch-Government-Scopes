@@ -1,0 +1,14 @@
+a-www.sso3w.nl
+www.sso3w.nl
+a-opendata.sso3w.nl
+english.sso3w.nl
+opendata.sso3w.nl
+opendata.english.sso3w.nl
+a-opendata.a-english.sso3w.nl
+feeds.sso3w.nl
+a-magazines.sso3w.nl
+a-feeds.sso3w.nl
+a-feeds.a-english.sso3w.nl
+a-english.sso3w.nl
+magazines.sso3w.nl
+feeds.english.sso3w.nl

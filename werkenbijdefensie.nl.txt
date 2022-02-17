@@ -1,0 +1,6 @@
+api.werkenbijdefensie.nl
+mijn.werkenbijdefensie.nl
+mail.werkenbijdefensie.nl
+www.werkenbijdefensie.nl
+www2.werkenbijdefensie.nl
+toolkit.werkenbijdefensie.nl

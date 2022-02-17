@@ -1,0 +1,15 @@
+intranet-acc.nationaalcoordinatorgroningen.nl
+zakelijk.nationaalcoordinatorgroningen.nl
+lyncdiscover.nationaalcoordinatorgroningen.nl
+kennisbank.nationaalcoordinatorgroningen.nl
+intranet.nationaalcoordinatorgroningen.nl
+sip.nationaalcoordinatorgroningen.nl
+aip.nationaalcoordinatorgroningen.nl
+a-feeds.nationaalcoordinatorgroningen.nl
+t-www.nationaalcoordinatorgroningen.nl
+a-opendata.nationaalcoordinatorgroningen.nl
+www.nationaalcoordinatorgroningen.nl
+feeds.nationaalcoordinatorgroningen.nl
+opendata.nationaalcoordinatorgroningen.nl
+o-www.nationaalcoordinatorgroningen.nl
+a-www.nationaalcoordinatorgroningen.nl

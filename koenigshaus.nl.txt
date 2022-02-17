@@ -1,0 +1,8 @@
+opendata.koenigshaus.nl
+a-www.koenigshaus.nl
+feeds.koenigshaus.nl
+www.koenigshaus.nl
+a-feeds.koenigshaus.nl
+a-opendata.koenigshaus.nl
+t-www.koenigshaus.nl
+o-www.koenigshaus.nl

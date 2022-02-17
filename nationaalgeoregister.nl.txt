@@ -1,0 +1,5 @@
+geodata.nationaalgeoregister.nl
+ngr.nationaalgeoregister.nl
+ftp.nationaalgeoregister.nl
+mail.nationaalgeoregister.nl
+www.nationaalgeoregister.nl

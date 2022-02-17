@@ -1,0 +1,16 @@
+api.kansspelautoriteit.nl
+mx.kansspelautoriteit.nl
+webmail.kansspelautoriteit.nl
+api-test.kansspelautoriteit.nl
+portal.kansspelautoriteit.nl
+workspace.kansspelautoriteit.nl
+send.kansspelautoriteit.nl
+desktop.kansspelautoriteit.nl
+sftp.kansspelautoriteit.nl
+api-acc.kansspelautoriteit.nl
+autodiscover.kansspelautoriteit.nl
+vpn.kansspelautoriteit.nl
+www.kansspelautoriteit.nl
+mfa.kansspelautoriteit.nl
+sts.kansspelautoriteit.nl
+formulieren.kansspelautoriteit.nl

@@ -1,0 +1,16 @@
+evenementen.hiswa.nl
+www.hiswa.nl
+webmail.hiswa.nl
+mail.hiswa.nl
+autodiscover.hiswa.nl
+oud.hiswa.nl
+newsletter.hiswa.nl
+ipc.hiswa.nl
+enterpriseenrollment.hiswa.nl
+www.evenementen.hiswa.nl
+enterpriseregistration.hiswa.nl
+scope.hiswa.nl
+msoid.hiswa.nl
+sip.hiswa.nl
+lyncdiscover.hiswa.nl
+insite.hiswa.nl

@@ -1,0 +1,10 @@
+test.cbi.eu
+ts.cbi.eu
+www.cbi.eu
+mail.cbi.eu
+crm.cbi.eu
+sip.cbi.eu
+crmtest.cbi.eu
+acc.cbi.eu
+lyncdiscover.cbi.eu
+elearning.cbi.eu

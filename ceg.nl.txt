@@ -1,0 +1,12 @@
+pop.ceg.nl
+www.testsite.ceg.nl
+mail.ceg.nl
+a-www.ceg.nl
+feeds.ceg.nl
+a-opendata.ceg.nl
+smtp.ceg.nl
+ftp.ceg.nl
+testsite.ceg.nl
+a-feeds.ceg.nl
+www.ceg.nl
+opendata.ceg.nl

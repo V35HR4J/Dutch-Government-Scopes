@@ -1,0 +1,9 @@
+feeds.paysbasetvous.nl
+a-opendata.paysbasetvous.nl
+t-www.paysbasetvous.nl
+i-www.paysbasetvous.nl
+www.paysbasetvous.nl
+a-www.paysbasetvous.nl
+opendata.paysbasetvous.nl
+o-www.paysbasetvous.nl
+a-feeds.paysbasetvous.nl

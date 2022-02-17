@@ -1,0 +1,12 @@
+autodiscover.sbr-wonen.nl
+dvi.sbr-wonen.nl
+sip.sbr-wonen.nl
+portaal.sbr-wonen.nl
+srv1.sbr-wonen.nl
+definities.sbr-wonen.nl
+lyncdiscover.sbr-wonen.nl
+servicedesk.sbr-wonen.nl
+dpi.sbr-wonen.nl
+enterpriseregistration.sbr-wonen.nl
+enterpriseenrollment.sbr-wonen.nl
+msoid.sbr-wonen.nl

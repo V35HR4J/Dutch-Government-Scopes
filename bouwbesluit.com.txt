@@ -1,0 +1,6 @@
+enterpriseenrollment.bouwbesluit.com
+autodiscover.bouwbesluit.com
+enterpriseregistration.bouwbesluit.com
+vrom.bouwbesluit.com
+rijksoverheid.bouwbesluit.com
+lyncdiscover.bouwbesluit.com

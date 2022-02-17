@@ -1,0 +1,6 @@
+cloud.waardigheidentrots.nl
+registratie.waardigheidentrots.nl
+www.waardigheidentrots.nl
+api.waardigheidentrots.nl
+cms.waardigheidentrots.nl
+portaal.waardigheidentrots.nl

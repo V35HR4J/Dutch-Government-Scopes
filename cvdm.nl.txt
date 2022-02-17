@@ -1,0 +1,15 @@
+flex.cvdm.nl
+vpn.cvdm.nl
+jaarverslag.cvdm.nl
+www2.cvdm.nl
+werkenbij.cvdm.nl
+itz.cvdm.nl
+serviceportaal.cvdm.nl
+aov.cvdm.nl
+msoid.cvdm.nl
+autodiscover.cvdm.nl
+sip.cvdm.nl
+lyncdiscover.cvdm.nl
+eloket.cvdm.nl
+testeloket.cvdm.nl
+www.cvdm.nl

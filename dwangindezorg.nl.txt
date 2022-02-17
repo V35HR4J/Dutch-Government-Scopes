@@ -1,0 +1,7 @@
+autodiscover.dwangindezorg.nl
+feeds.dwangindezorg.nl
+www.dwangindezorg.nl
+a-feeds.dwangindezorg.nl
+a-www.dwangindezorg.nl
+opendata.dwangindezorg.nl
+a-opendata.dwangindezorg.nl

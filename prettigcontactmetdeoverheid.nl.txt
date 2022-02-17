@@ -1,0 +1,6 @@
+ftp.prettigcontactmetdeoverheid.nl
+www.prettigcontactmetdeoverheid.nl
+pop.prettigcontactmetdeoverheid.nl
+autoconfig.prettigcontactmetdeoverheid.nl
+autodiscover.prettigcontactmetdeoverheid.nl
+smtp.prettigcontactmetdeoverheid.nl

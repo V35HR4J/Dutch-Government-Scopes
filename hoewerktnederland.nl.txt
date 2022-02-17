@@ -1,0 +1,6 @@
+a-feeds.hoewerktnederland.nl
+feeds.hoewerktnederland.nl
+opendata.hoewerktnederland.nl
+a-opendata.hoewerktnederland.nl
+www.hoewerktnederland.nl
+a-www.hoewerktnederland.nl

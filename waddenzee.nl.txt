@@ -1,0 +1,3 @@
+test.waddenzee.nl
+www.waddenzee.nl
+autodiscover.waddenzee.nl

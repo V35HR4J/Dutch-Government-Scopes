@@ -1,0 +1,11 @@
+sso.acceptatie.istandaarden.nl
+simulatie.istandaarden.nl
+registry.istandaarden.nl
+modules.istandaarden.nl
+sso.istandaarden.nl
+acceptatie.istandaarden.nl
+repository.istandaarden.nl
+www-p.istandaarden.nl
+www.istandaarden.nl
+www-ac.istandaarden.nl
+ftp.istandaarden.nl

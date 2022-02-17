@@ -1,0 +1,9 @@
+sip.varendoejesamen.nl
+enterpriseregistration.varendoejesamen.nl
+autodiscover.varendoejesamen.nl
+webmail.varendoejesamen.nl
+mail.varendoejesamen.nl
+localhost.varendoejesamen.nl
+enterpriseenrollment.varendoejesamen.nl
+msoid.varendoejesamen.nl
+lyncdiscover.varendoejesamen.nl

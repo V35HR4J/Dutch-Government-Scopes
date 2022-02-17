@@ -1,0 +1,5 @@
+acc.luchtvaartmeteo.nl
+oud.luchtvaartmeteo.nl
+www.acc.luchtvaartmeteo.nl
+nieuw.luchtvaartmeteo.nl
+www.luchtvaartmeteo.nl

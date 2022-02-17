@@ -1,0 +1,9 @@
+wiki.rijkszaak.nl
+lyncdiscover.rijkszaak.nl
+www.rijkszaak.nl
+vpn.rijkszaak.nl
+wiki-acc.rijkszaak.nl
+acc.rijkszaak.nl
+dev.rijkszaak.nl
+jira.rijkszaak.nl
+sip.rijkszaak.nl

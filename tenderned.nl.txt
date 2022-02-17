@@ -1,0 +1,12 @@
+www.tenderned.nl
+cms.tenderned.nl
+cms.test.tenderned.nl
+cms.acceptatie.tenderned.nl
+www.acceptatie.tenderned.nl
+ontwikkel.tenderned.nl
+cursus.tenderned.nl
+www.webservices.tenderned.nl
+acceptatie.tenderned.nl
+www.cursus.tenderned.nl
+www-cloud.tenderned.nl
+webservices.tenderned.nl

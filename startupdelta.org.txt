@@ -1,0 +1,8 @@
+actions.startupdelta.org
+content.startupdelta.org
+reach.startupdelta.org
+ftp.startupdelta.org
+webmail.startupdelta.org
+remote.startupdelta.org
+startups.startupdelta.org
+support.startupdelta.org

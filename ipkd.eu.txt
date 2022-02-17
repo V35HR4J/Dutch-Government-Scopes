@@ -1,0 +1,7 @@
+ftp.ipkd.eu
+db.ipkd.eu
+test.ipkd.eu
+testws.ipkd.eu
+ws.ipkd.eu
+maps.ipkd.eu
+export.ipkd.eu

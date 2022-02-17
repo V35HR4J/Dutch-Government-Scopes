@@ -1,0 +1,6 @@
+cert.pkioverheid.nl
+www.pkioverheid.nl
+cps.pkioverheid.nl
+crl.pkioverheid.nl
+evrootocsp.pkioverheid.nl
+ocsp.pkioverheid.nl

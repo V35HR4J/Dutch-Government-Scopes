@@ -1,0 +1,12 @@
+localhost.ssc-ict.nl
+dc.ssc-ict.nl
+dcpp.ssc-ict.nl
+anyc.ssc-ict.nl
+mail.ssc-ict.nl
+deployer.ssc-ict.nl
+a-opendata.ssc-ict.nl
+opendata.ssc-ict.nl
+feeds.ssc-ict.nl
+www.ssc-ict.nl
+a-www.ssc-ict.nl
+a-feeds.ssc-ict.nl

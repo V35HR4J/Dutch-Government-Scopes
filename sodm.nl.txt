@@ -1,0 +1,13 @@
+forms.sodm.nl
+test.sodm.nl
+o-www.sodm.nl
+productie.sodm.nl
+sip.sodm.nl
+feeds.sodm.nl
+www.sodm.nl
+lyncdiscover.sodm.nl
+a-opendata.sodm.nl
+a-feeds.sodm.nl
+t-www.sodm.nl
+a-www.sodm.nl
+opendata.sodm.nl

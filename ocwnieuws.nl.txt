@@ -1,0 +1,10 @@
+api-test.ocwnieuws.nl
+www.ocwnieuws.nl
+cms-dev.ocwnieuws.nl
+cms-test.ocwnieuws.nl
+api.ocwnieuws.nl
+registratie.ocwnieuws.nl
+cms.ocwnieuws.nl
+cms-acc.ocwnieuws.nl
+api-dev.ocwnieuws.nl
+api-acc.ocwnieuws.nl

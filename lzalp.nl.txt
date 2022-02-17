@@ -1,0 +1,10 @@
+localhost.lzalp.nl
+a-feeds.lzalp.nl
+acc.lzalp.nl
+www.lzalp.nl
+pop.lzalp.nl
+mail.lzalp.nl
+a-www.lzalp.nl
+a-opendata.lzalp.nl
+feeds.lzalp.nl
+opendata.lzalp.nl

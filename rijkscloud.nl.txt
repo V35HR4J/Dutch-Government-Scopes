@@ -1,0 +1,4 @@
+www.rijkscloud.nl
+ad1.rijkscloud.nl
+webmail.rijkscloud.nl
+mail.rijkscloud.nl
